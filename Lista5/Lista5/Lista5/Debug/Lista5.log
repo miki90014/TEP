@@ -1,0 +1,29 @@
+﻿  Źródło.cpp
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\CRefCounter.h(41,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\CRefCounter.h(40): message : podczas kompilowania funkcji składowej „void CRefCounter<T>::vRemovePointer(CMySmartPointer<T> *)” klasy klasa szablon
+          with
+          [
+              T=CTable
+          ]
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\CMySmartPointer.h(41): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void CRefCounter<T>::vRemovePointer(CMySmartPointer<T> *)” funkcji szablon
+          with
+          [
+              T=CTable
+          ]
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\CMySmartPointer.h(24): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CRefCounter<T>” klasy klasa szablon
+          with
+          [
+              T=CTable
+          ]
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\CMySmartPointer.h(22): message : podczas kompilowania funkcji składowej „CMySmartPointer<CTable>::CMySmartPointer(T *)” klasy klasa szablon
+          with
+          [
+              T=CTable
+          ]
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\Źródło.cpp(9): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CMySmartPointer<CTable>::CMySmartPointer(T *)” funkcji szablon
+          with
+          [
+              T=CTable
+          ]
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Lista5\Źródło.cpp(9): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „CMySmartPointer<CTable>” klasy klasa szablon
+  Lista5.vcxproj -> C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista5\Lista5\Debug\Lista5.exe

@@ -1,0 +1,5 @@
+﻿  NodeStatic.cpp
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista3\Lista3\Lista3\NodeStatic.cpp(33,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista3\Lista3\Lista3\NodeStatic.cpp(43,19): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista3\Lista3\Lista3\NodeStatic.cpp(54,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Lista3.vcxproj -> C:\Users\Monika\Documents\Techniki Efektywnego Programowania\Labolatorium\Lista3\Lista3\Debug\Lista3.exe
